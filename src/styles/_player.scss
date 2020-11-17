@@ -11,13 +11,13 @@
     display: flex;
     input {
         width: 100%;
-        //padding: 1rem 0rem;
-        -webkit-appearance: none;
-        background: transparent;
+        /* -webkit-appearance: none;
+        background: transparent; */
         cursor: pointer;
+        opacity: 0;
     }
     p {
-        padding: 1rem;
+        padding: 0 1rem;
     }
 
 }
