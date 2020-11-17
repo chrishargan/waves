@@ -22,17 +22,14 @@
     align-items: center;
     padding: 1rem 2rem 1rem 2rem;
     cursor: pointer;
-    transition: all 0.75s ease-out;
-    /* &:hover{
-      transform: scale(1.05);
-      transition: none ease-in-out;
-    } */
+    transition: background 0.5s ease-out;
+    
   
     img {
       width: 30%;
     }
     &:hover {
-      background: rgb(235, 235, 235);
+      background: rgb(222, 222, 255);
     }
   }
   .song-description {
@@ -69,4 +66,10 @@
   .active-library {
     transform: translateX(0%);
     opacity: 1;
+  }
+
+  @media screen and (max-width: 768px){
+    .library {
+      width: 100%;
+    }
   }
