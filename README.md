@@ -1,4 +1,4 @@
 # Welcome to Waves music streaming
 
 
-![Waves-Demo](Waves.gif) / ![](Waves.gif)
+![Waves-Demo](Waves.gif)
