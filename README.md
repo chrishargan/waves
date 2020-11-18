@@ -1,5 +1,4 @@
 # Welcome to Waves music streaming
 
-image::iframe src='//gifs.com/embed/waves-demo-k8q2yx' frameborder='0' scrolling='no' width='640px' height='520px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
-
+image::https://j.gifs.com/k8q2yx.gif  
 
